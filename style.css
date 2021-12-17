@@ -1,0 +1,20 @@
+/* CSS document */
+
+table, th, td{
+	width:20%;
+	height:30px;
+	border: 1px solid black;
+}
+
+th{
+	text-align: center;
+	padding:10px;
+	font-size:20px;
+	background-color: #48D1CC;
+	color: #DCDCDC;
+}
+
+td{
+	
+	text-align: center;
+}
